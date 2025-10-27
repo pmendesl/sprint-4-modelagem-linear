@@ -109,3 +109,7 @@ As métricas de performance (Acurácia, Precisão e Recall) e as Matrizes de Con
 | `matriz_correlacao.md` | Matriz de correlação em formato Markdown. |
 | `avaliacao_modelo.md` | Resultados detalhados da avaliação do modelo (Matrizes de Confusão e Métricas). |
 | `heatmap_correlacao.png` | Visualização gráfica da matriz de correlação. |
+
+
+
+<img width="1200" height="1000" alt="heatmap_correlacao" src="https://github.com/user-attachments/assets/4f06a31f-4fb1-4102-a173-20efdad14b48" />
